@@ -1,0 +1,26 @@
+body {
+    color:grey;
+    background-image: linear-gradient(red,black);
+    background-image:url(https://rosas.florpedia.com/wp-content/uploads/sites/2/nggallery/rosas-negras/Rosas-negras-1.png)
+}
+
+p,ul{   
+    color:navy;
+    background-color: brown;
+    font-size: 55px; /*comentarios no css*/
+}
+.titulo{
+    color:chocolate;
+    background-color:rgb(58, 90, 10);
+    font-size: 55px;/*comentarios css */
+}
+
+p,ol{
+    color:crimson;
+    background-color:antiquewhite;
+    font-size: 55px; /*comentarios no css*/
+}
+.titulo{
+
+}
+
