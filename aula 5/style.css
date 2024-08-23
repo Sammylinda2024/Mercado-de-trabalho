@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding:0;
+}
+
+.menu-horinzontal ul{
+    background-color: rgba(245, 5, 129, 0.993);
+}
+
+.menu-horizontal ul{
+    max-width: 800px;
+}
+.menu-horinzontal ul li {
+    display: inline;/*em linha*/
+}
+
+.menu-horinzontal ul li a{
+    color: #fff;/*texto*/
+    padding: 20px;
+    display: inline-block;
+    text-decoration: nome; /*retira padrao do hiperlink
+}    
+
