@@ -1,0 +1,27 @@
+body{
+    background-color: #f0f0f0;
+}
+header{
+    background-color: #0000ff;
+    color: #f0f0f0;
+}
+main{
+    background-color: white;
+    margin: 20px;
+}
+footer{
+    background-color: #cccc;
+    text-align: center;
+}
+h1{
+    color: #0000ff;
+    font: size 24px;
+}
+p{
+    padding: 10px;
+    color: #333333;
+}
+li{
+    margin: 5px;
+    color:#00ff00;
+}
